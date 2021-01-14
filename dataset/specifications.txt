@@ -1,0 +1,17 @@
+### recording time
+---
+2s initial gesture
+
+2s transition 
+
+2s final gesture
+
+### per csv 
+---
+~600 rows
+~277 cols
+
+### per gesture 
+--- 
+30 csv 
+

@@ -1222,23 +1222,23 @@ int taskRadar(void)
     f = fopen ("1.csv", "w");
     fclose(f);
 
-    f = fopen ("2.csv", "w");
-    fclose(f);
+    // f = fopen ("2.csv", "w");
+    // fclose(f);
 
-    f = fopen ("3.csv", "w");
-    fclose(f);
+    // f = fopen ("3.csv", "w");
+    // fclose(f);
 
-    f = fopen ("4.csv", "w");
-    fclose(f);
+    // f = fopen ("4.csv", "w");
+    // fclose(f);
 
-    f = fopen ("5.csv", "w");
-    fclose(f);
+    // f = fopen ("5.csv", "w");
+    // fclose(f);
 
-    f = fopen ("6.csv", "w");
-    fclose(f);
+    // f = fopen ("6.csv", "w");
+    // fclose(f);
 
-    f = fopen ("7.csv", "w");
-    fclose(f);
+    // f = fopen ("7.csv", "w");
+    // fclose(f);
     
 
 #ifdef DEBUG
