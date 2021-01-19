@@ -1,10 +1,10 @@
 ### recording time
 ---
-2s initial gesture
+4s initial gesture
 
-2s transition 
+4s transition 
 
-2s final gesture
+4s final gesture
 
 ### per csv 
 ---
@@ -15,3 +15,6 @@
 --- 
 30 csv 
 
+### distance
+---
+70 cm
